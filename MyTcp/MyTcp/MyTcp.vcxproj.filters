@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.c" />
+    <ClCompile Include="tcp_connection_handler.c">
+      <Filter>TcpConnectionHandlerModule</Filter>
+    </ClCompile>
+    <ClCompile Include="node_list.c">
+      <Filter>NodeList</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="TcpSocketModule">
+      <UniqueIdentifier>{60e6b64c-a0ac-43c1-a3f2-cc477c43964a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NetworkingCommonModule">
+      <UniqueIdentifier>{446c72a5-cff8-48a5-8786-e5a671a43926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TcpHeaders">
+      <UniqueIdentifier>{8a270b66-43e3-4b9e-82fd-1dcf719fdeaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TcpConnectionHandlerModule">
+      <UniqueIdentifier>{60fff31d-f6ab-4295-87af-300a9367cbb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NodeList">
+      <UniqueIdentifier>{4e5b4be5-6d91-4f07-9f4d-6bea1a7879e5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tcp_socket_module.h">
+      <Filter>TcpSocketModule</Filter>
+    </ClInclude>
+    <ClInclude Include="tcp_socket_module_internal.h">
+      <Filter>TcpSocketModule</Filter>
+    </ClInclude>
+    <ClInclude Include="networking_common.h">
+      <Filter>NetworkingCommonModule</Filter>
+    </ClInclude>
+    <ClInclude Include="tcp_headers.h">
+      <Filter>TcpHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="tcp_connection_handler_module.h">
+      <Filter>TcpConnectionHandlerModule</Filter>
+    </ClInclude>
+    <ClInclude Include="tcp_connection_handler_module_internal.h">
+      <Filter>TcpConnectionHandlerModule</Filter>
+    </ClInclude>
+    <ClInclude Include="node_list.h">
+      <Filter>NodeList</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
