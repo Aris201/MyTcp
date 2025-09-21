@@ -8,6 +8,9 @@
     <ClCompile Include="node_list.c">
       <Filter>NodeList</Filter>
     </ClCompile>
+    <ClCompile Include="window_module.c">
+      <Filter>WindowModule</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="TcpSocketModule">
@@ -24,6 +27,12 @@
     </Filter>
     <Filter Include="NodeList">
       <UniqueIdentifier>{4e5b4be5-6d91-4f07-9f4d-6bea1a7879e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WindowModule">
+      <UniqueIdentifier>{08ddbffb-86c9-4015-93e4-a3edcd6bec26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConnectionModule">
+      <UniqueIdentifier>{ed0e3cc6-bc6a-41e7-a48c-999e2a6668b2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -47,6 +56,15 @@
     </ClInclude>
     <ClInclude Include="node_list.h">
       <Filter>NodeList</Filter>
+    </ClInclude>
+    <ClInclude Include="window_module.h">
+      <Filter>WindowModule</Filter>
+    </ClInclude>
+    <ClInclude Include="window_module_internal.h">
+      <Filter>WindowModule</Filter>
+    </ClInclude>
+    <ClInclude Include="connection_module.h">
+      <Filter>ConnectionModule</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

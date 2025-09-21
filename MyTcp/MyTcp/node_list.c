@@ -49,7 +49,7 @@ void* find_from_node_list(node_t* list, compare_func compare_func)
 	return NULL;
 }
 
-node_t* remove_from_node_list(node_t* list, compare_func func, dispose_func dispose_func)
+node_t* remove_from_node_list(node_t* list, compare_func compare_func, dispose_func dispose_func)
 {
 	node_t* prev = NULL;
 	node_t* current = list;
@@ -59,7 +59,7 @@ node_t* remove_from_node_list(node_t* list, compare_func func, dispose_func disp
 		return NULL;
 	}
 
-	if (true == func(list->value))
+	if (true == compare_func(list->value))
 	{
 		list = list->next;
 		goto l_cleanup;
@@ -96,7 +96,7 @@ void close_node_list(node_t** list, dispose_func dispose_func)
 		while (NULL != current)
 		{
 			next = current->next;
-			dispose_func(&current->value);
+			dispose_func(current->value);
 			(void)free(current);
 			current = next;
 		}

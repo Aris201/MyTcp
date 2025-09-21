@@ -1,0 +1,378 @@
+﻿  main.c
+  node_list.c
+  tcp_connection_handler.c
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\main.c(4,1): warning C4102: 'l_cleanup': unreferenced label
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(13,2): error C2061: syntax error: identifier 'node_t'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(14,1): error C2059: syntax error: '}'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,7): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,42): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,42): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,50): error C2059: syntax error: 'type'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,61): error C2059: syntax error: ')'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,38): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,38): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,46): error C2373: 'callback_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,60): error C2146: syntax error: missing ';' before identifier 'callback_func'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,73): error C2059: syntax error: ')'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,60): error C2373: 'callback_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,33): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,33): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,41): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,54): error C2146: syntax error: missing ';' before identifier 'compare_func'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,66): error C2059: syntax error: ')'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,54): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,7): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,37): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,37): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,45): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,58): error C2146: syntax error: missing ';' before identifier 'func'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,64): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,77): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,89): error C2059: syntax error: ')'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,77): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,28): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,28): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,31): error C2040: 'list': 'int **' differs in levels of indirection from 'int *'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,37): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,50): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,62): error C2059: syntax error: ')'
+  (compiling source file 'node_list.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,50): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'node_list.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(7,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(7,42): error C2143: syntax error: missing ')' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(7,42): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(7,50): error C2059: syntax error: 'type'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(7,61): error C2059: syntax error: ')'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,38): error C2143: syntax error: missing ')' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,38): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,46): error C2373: 'callback_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,60): error C2146: syntax error: missing ';' before identifier 'callback_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,73): error C2059: syntax error: ')'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,60): error C2373: 'callback_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(30,60): error C2054: expected '(' to follow 'callback_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,33): error C2143: syntax error: missing ')' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,33): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,41): error C2373: 'compare_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,54): error C2146: syntax error: missing ';' before identifier 'compare_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,66): error C2059: syntax error: ')'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,54): error C2373: 'compare_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(39,54): error C2054: expected '(' to follow 'compare_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,7): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,37): error C2143: syntax error: missing ')' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,37): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,45): error C2373: 'compare_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,58): error C2146: syntax error: missing ';' before identifier 'compare_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,58): error C2373: 'compare_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,72): error C2373: 'dispose_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,85): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,97): error C2059: syntax error: ')'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,85): error C2373: 'dispose_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(52,85): error C2054: expected '(' to follow 'dispose_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,28): error C2143: syntax error: missing ')' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,28): error C2143: syntax error: missing '{' before '*'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,31): error C2040: 'list': 'int **' differs in levels of indirection from 'int *'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,37): error C2373: 'dispose_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,50): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,62): error C2059: syntax error: ')'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,50): error C2373: 'dispose_func': redefinition; different type modifiers
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.c(87,50): error C2054: expected '(' to follow 'dispose_func'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(13,2): error C2061: syntax error: identifier 'node_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(14,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,7): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,42): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,42): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,50): error C2059: syntax error: 'type'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(16,61): error C2059: syntax error: ')'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,38): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,38): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,46): error C2373: 'callback_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,60): error C2146: syntax error: missing ';' before identifier 'callback_func'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,73): error C2059: syntax error: ')'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(18,60): error C2373: 'callback_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(9,16):
+      see declaration of 'callback_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,33): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,33): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,41): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,54): error C2146: syntax error: missing ';' before identifier 'compare_func'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,66): error C2059: syntax error: ')'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(20,54): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,7): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,37): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,37): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,45): error C2373: 'compare_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(7,16):
+      see declaration of 'compare_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,58): error C2146: syntax error: missing ';' before identifier 'func'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,64): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,77): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,89): error C2059: syntax error: ')'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(22,77): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,28): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,28): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,31): error C2040: 'list': 'int **' differs in levels of indirection from 'int *'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,37): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,50): error C2146: syntax error: missing ';' before identifier 'dispose_func'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,62): error C2059: syntax error: ')'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(24,50): error C2373: 'dispose_func': redefinition; different type modifiers
+  (compiling source file 'tcp_connection_handler.c')
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\node_list.h(8,16):
+      see declaration of 'dispose_func'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(9,18): error C2061: syntax error: identifier 'host_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(9,18): error C2059: syntax error: ';'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(18,2): error C2061: syntax error: identifier 'host_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(20,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(24,2): error C2061: syntax error: identifier 'endpoint_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(25,13): error C2061: syntax error: identifier 'src_endpoint'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(25,13): error C2059: syntax error: ';'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\networking_common.h(26,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(18,2): error C2061: syntax error: identifier 'connection_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(20,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(23,2): error C2061: syntax error: identifier 'connection_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(24,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(29,2): error C2061: syntax error: identifier 'node_t'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(30,8): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(31,1): error C2059: syntax error: '}'
+  (compiling source file 'tcp_connection_handler.c')
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(19,61): error C2027: use of undefined type '_tcp_connection_handler'
+      C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler_module_internal.h(26,16):
+      see declaration of '_tcp_connection_handler'
+  
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(27,29): error C2037: left of 'socket' specifies undefined struct/union '_tcp_connection_handler'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(27,11): error C2198: 'tcp_connection_handler_status_t create_raw_socket(SOCKET *)': too few arguments for call
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(34,2): error C2037: left of 'all_incomming_connections_list' specifies undefined struct/union '_tcp_connection_handler'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(35,2): error C2037: left of 'all_outgoing_connections_list' specifies undefined struct/union '_tcp_connection_handler'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(55,22): error C2037: left of 'socket' specifies undefined struct/union '_tcp_connection_handler'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(55,10): error C2198: 'int closesocket(SOCKET)': too few arguments for call
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(56,4): warning C4013: 'close_node_list' undefined; assuming extern returning int
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(56,20): error C2037: left of 'all_outgoing_connections_list' specifies undefined struct/union '_tcp_connection_handler'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(57,3): error C2143: syntax error: missing ';' before '}'
+C:\Users\ariel\Dekstop\Projects\MyTcp\MyTcp\MyTcp\tcp_connection_handler.c(86,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...

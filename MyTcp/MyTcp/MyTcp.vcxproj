@@ -126,8 +126,10 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="node_list.c" />
     <ClCompile Include="tcp_connection_handler.c" />
+    <ClCompile Include="window_module.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="connection_module.h" />
     <ClInclude Include="networking_common.h" />
     <ClInclude Include="node_list.h" />
     <ClInclude Include="tcp_connection_handler_module.h" />
@@ -135,6 +137,8 @@
     <ClInclude Include="tcp_headers.h" />
     <ClInclude Include="tcp_socket_module.h" />
     <ClInclude Include="tcp_socket_module_internal.h" />
+    <ClInclude Include="window_module.h" />
+    <ClInclude Include="window_module_internal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

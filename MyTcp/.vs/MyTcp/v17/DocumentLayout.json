@@ -1,45 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\",
+  "WorkspaceRootPath": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\connection_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\connection_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\window_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\window_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\networking_common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\networking_common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\node_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\node_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_socket_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_socket_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\window_module.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_headers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler_module.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\networking_common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\networking_common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\node_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\node_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\tcp_connection_handler_module_internal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AE90486-C2A5-4BDA-AF97-BF59A3A74957}|MyTcp\\MyTcp.vcxproj|solutionrelative:MyTcp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -50,80 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "node_list.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.c",
-              "RelativeDocumentMoniker": "MyTcp\\node_list.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.c",
-              "RelativeToolTip": "MyTcp\\node_list.c",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-12T18:35:29.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "node_list.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.h",
-              "RelativeDocumentMoniker": "MyTcp\\node_list.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\node_list.h",
-              "RelativeToolTip": "MyTcp\\node_list.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-12T18:28:19.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tcp_connection_handler.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c",
-              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c",
-              "RelativeToolTip": "MyTcp\\tcp_connection_handler.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-12T17:49:17.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tcp_connection_handler_module_internal.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h",
-              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler_module_internal.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h",
-              "RelativeToolTip": "MyTcp\\tcp_connection_handler_module_internal.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-12T17:14:22.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "tcp_connection_handler_module.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h",
-              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler_module.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h",
-              "RelativeToolTip": "MyTcp\\tcp_connection_handler_module.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-12T17:12:48.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "tcp_headers.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h",
               "RelativeDocumentMoniker": "MyTcp\\tcp_headers.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_headers.h",
               "RelativeToolTip": "MyTcp\\tcp_headers.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -132,55 +83,178 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "networking_common.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\networking_common.h",
-              "RelativeDocumentMoniker": "MyTcp\\networking_common.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\networking_common.h",
-              "RelativeToolTip": "MyTcp\\networking_common.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAAApwBcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-12T16:13:47.268Z",
+              "DocumentIndex": 5,
+              "Title": "window_module.c",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.c",
+              "RelativeDocumentMoniker": "MyTcp\\window_module.c",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.c",
+              "RelativeToolTip": "MyTcp\\window_module.c",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwI4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-13T06:33:15.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "tcp_socket_module_internal.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h",
               "RelativeDocumentMoniker": "MyTcp\\tcp_socket_module_internal.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module_internal.h",
               "RelativeToolTip": "MyTcp\\tcp_socket_module_internal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-12T16:04:14.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "tcp_socket_module.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h",
               "RelativeDocumentMoniker": "MyTcp\\tcp_socket_module.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_socket_module.h",
               "RelativeToolTip": "MyTcp\\tcp_socket_module.h",
-              "ViewState": "AgIAABAAAAAAAAAAAAAnwCMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-12T15:50:38.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "window_module.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.h",
+              "RelativeDocumentMoniker": "MyTcp\\window_module.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module.h",
+              "RelativeToolTip": "MyTcp\\window_module.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T06:13:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "window_module_internal.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module_internal.h",
+              "RelativeDocumentMoniker": "MyTcp\\window_module_internal.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\window_module_internal.h",
+              "RelativeToolTip": "MyTcp\\window_module_internal.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T06:13:39.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connection_module.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\connection_module.h",
+              "RelativeDocumentMoniker": "MyTcp\\connection_module.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\connection_module.h",
+              "RelativeToolTip": "MyTcp\\connection_module.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-13T12:51:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tcp_connection_handler_module.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h",
+              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler_module.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module.h",
+              "RelativeToolTip": "MyTcp\\tcp_connection_handler_module.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T17:12:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tcp_connection_handler.c",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c",
+              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler.c",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler.c",
+              "RelativeToolTip": "MyTcp\\tcp_connection_handler.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-12T17:49:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "networking_common.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\networking_common.h",
+              "RelativeDocumentMoniker": "MyTcp\\networking_common.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\networking_common.h",
+              "RelativeToolTip": "MyTcp\\networking_common.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T16:13:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "node_list.c",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.c",
+              "RelativeDocumentMoniker": "MyTcp\\node_list.c",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.c",
+              "RelativeToolTip": "MyTcp\\node_list.c",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwGIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-12T18:35:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "node_list.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.h",
+              "RelativeDocumentMoniker": "MyTcp\\node_list.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\node_list.h",
+              "RelativeToolTip": "MyTcp\\node_list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T18:28:19.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tcp_connection_handler_module_internal.h",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h",
+              "RelativeDocumentMoniker": "MyTcp\\tcp_connection_handler_module_internal.h",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\tcp_connection_handler_module_internal.h",
+              "RelativeToolTip": "MyTcp\\tcp_connection_handler_module_internal.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T17:14:22.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\main.c",
+              "DocumentMoniker": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\main.c",
               "RelativeDocumentMoniker": "MyTcp\\main.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Project\\MyTcp\\MyTcp\\MyTcp\\main.c",
+              "ToolTip": "C:\\Users\\ariel\\Dekstop\\Projects\\MyTcp\\MyTcp\\MyTcp\\main.c",
               "RelativeToolTip": "MyTcp\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-12T15:48:27.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T15:48:27.493Z"
             }
           ]
         }

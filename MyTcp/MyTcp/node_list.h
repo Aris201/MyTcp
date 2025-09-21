@@ -5,7 +5,7 @@
 #include <stdint.h>
 
 typedef bool (*compare_func)(void* value);
-typedef void (*dispose_func)(void** value);
+typedef void (*dispose_func)(void* value);
 typedef void (*callback_func)(void* value);
 
 typedef struct _node {

@@ -6,11 +6,12 @@
 
 typedef uint16_t port_t;
 
-typedef struct _host
-{
-	size_t		name_length;
-	char*		hostname;
-} host_t;
+typedef struct _buffer {
+	size_t		length;
+	uint8_t*	buffer;
+} buffer_t;
+
+typedef buffer_t host_t;
 
 typedef struct _endpoint
 {
@@ -20,7 +21,8 @@ typedef struct _endpoint
 
 typedef struct _connection
 {
-	endpoint_t	endpoint;
-	port_t		src_port;
+	endpoint_t	target_endpoint;
+	endpoint_t	src_endpoint;
 } connection_t;
+
 #endif
